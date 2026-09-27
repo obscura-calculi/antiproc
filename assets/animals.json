@@ -1,0 +1,28 @@
+{
+  "red_panda": {
+    "display_name": "Red Panda",
+    "scale": 1.0,
+    "fps": {
+      "SLEEPING": 2,
+      "ANGRY": 6,
+      "ALERT": 4,
+      "RUNNING": 10,
+      "SWIPING": 10,
+      "RETURNING": 10,
+      "IDLE": 3
+    }
+  },
+  "dodo": {
+    "display_name": "Dodo",
+    "scale": 1.0,
+    "fps": {
+      "SLEEPING": 2,
+      "ANGRY": 6,
+      "ALERT": 4,
+      "RUNNING": 10,
+      "SWIPING": 10,
+      "RETURNING": 10,
+      "IDLE": 3
+    }
+  }
+}

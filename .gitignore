@@ -1,0 +1,38 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vs/
+
+# Local configuration, logs, and runtime data (AntiProcPet data lives in %APPDATA%\AntiProcPet)
+*.log
+app.log
+config.json
+data/
+
+# Personal desktop and taskbar shortcuts
+*.lnk
+*.ico
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Testing and linting caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
